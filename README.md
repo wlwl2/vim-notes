@@ -1,6 +1,6 @@
 # vim-notes
 
-## Copy and paste selection (command mode).
+## Copy/cut and paste selection (command mode).
 1. Press `v` to select from where your cursor is.
 2. Move the cursor to select, using `h`,`j`,`k`, or `l`.
 3. Press `y` to copy it, or `d` to cut it.
