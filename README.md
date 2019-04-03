@@ -14,7 +14,7 @@
 3. Press `y` to copy it, or `d` to cut it.
 4. Move your cursor to the line where you want to paste
 (selection is pasted on the line AFTER this line).
-5. Press `p` to paste it on the line AFTER the cursor.
+5. Press `p` to paste it on the line AFTER the cursor/on the next line.
 
 ### This does not work by default using gvim on Windows.
 See: Vim visual selection method differs between Windows & Linux?
