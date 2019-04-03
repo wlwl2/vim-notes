@@ -1,4 +1,4 @@
-# vim-notes
+# vim-shortcuts
 
 ## Copy/cut and paste selection (command mode).
 1. Press `v` to select from where your cursor is.
