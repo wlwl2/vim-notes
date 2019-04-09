@@ -1,5 +1,10 @@
 # vim-shortcuts
 
+## Copy selection to clipboard (command mode).
+1. Press `v` to select from where your cursor is. DO NOT hold `v`.
+2. Move the cursor to select, using `h`,`j`,`k`, or `l`, or the arrow keys.
+3. `"+y`
+
 ## Copy/cut and paste selection (command mode).
 1. Press `v` to select from where your cursor is. DO NOT hold `v`.
 2. Move the cursor to select, using `h`,`j`,`k`, or `l`, or the arrow keys.
