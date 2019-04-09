@@ -5,6 +5,9 @@
 2. Move the cursor to select, using `h`,`j`,`k`, or `l`, or the arrow keys.
 3. Type in `"+y` (Remember to add the double quotes at the start of this command).
 
+https://vi.stackexchange.com/questions/84/how-can-i-copy-text-to-the-system-clipboard-from-vim
+https://stackoverflow.com/questions/3961859/how-to-copy-to-clipboard-in-vim
+
 ## Copy/cut and paste selection (command mode).
 1. Press `v` to select from where your cursor is. DO NOT hold `v`.
 2. Move the cursor to select, using `h`,`j`,`k`, or `l`, or the arrow keys.
